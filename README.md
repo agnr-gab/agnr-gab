@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Santander Bootcamp | Fullstack Developer](https://web.digitalinnovation.one/track/8cb85681-63be-4cfe-894c-c812861e52d3)
 
-- 🌱 I’m currently learning **SQL, Java, SCRUM, Cyber Security, Data Science.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL, Java, SCRUM, Cyber Security, Data Science.**
 
 - 👯 I’m looking to collaborate on **study groups**
 
