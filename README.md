@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp3.licdn.com/dms/image/C4D16AQGEfhH817Ujsg/profile-displaybackgroundimage-shrink_350_1400/0/1620841564395?e=1631750400&v=beta&t=gP35RkVeGcDm3MYDVoIjLSgyQ9Ek6dQnyCpEdQOwG5k" alt="cover" />
+<img width="100%" height = "250px" src="https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Arê Nascimento</h1>
 <h3 align="center">A developer student from Brazil</h3>
