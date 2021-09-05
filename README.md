@@ -2,15 +2,15 @@
 <img width="100%" height = "250px" src="https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Arê Nascimento</h1>
-<h3 align="center">A developer student from Brazil</h3>
+<h3 align="center">A java developer student from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=agnr-gab&label=Profile%20views&color=0e75b6&style=flat" alt="agnr-gab" /> </p>
 
 <div align="center">
   
- 🔭 I’m currently working on [Santander Bootcamp | Fullstack Developer](https://web.digitalinnovation.one/track/8cb85681-63be-4cfe-894c-c812861e52d3)
+ 🔭 I’m currently working on [ Estrelas Fora da Caixa | Zup Innovation](https://www.zup.com.br/estrelas-fora-da-caixa)
 
- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL, Java, SCRUM, Cyber Security, Data Analysis.**
+ 🌱 I’m currently learning **Cyber Security, Data Analysis and Java**
 
  👯 I’m looking to collaborate on **study groups**
 
