@@ -40,7 +40,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
   
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnr-gab&show_icons=true&locale=en" alt="agnr-gab" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnr-gab&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnr-gab&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
